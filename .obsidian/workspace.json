@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef38de978979454a",
+        "id": "7407034a78822fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc22df68da9b1711",
+            "id": "c91beab79c476c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 New notes/Introduction.md",
+                "file": "2 Resources/NAIS/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "3b4426162650673f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 New notes/The Twelve-factor app manifesto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Twelve-factor app manifesto"
+              "title": "General"
             }
           }
         ]
@@ -69,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PersistentStorage",
+                "query": "tag:#ImageRepository",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,54 +188,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc22df68da9b1711",
+  "active": "c91beab79c476c93",
   "lastOpenFiles": [
-    "0 New notes/The Twelve-factor app manifesto.md",
-    "0 New notes/Introduction.md",
-    "Attachments/Screenshot 2026-09-07 at 13.15.22.png",
-    "Attachments/Screenshot 2026-09-07 at 13.14.52.png",
-    "Attachments/Screenshot 2026-09-07 at 13.13.55.png",
+    "2 Resources/NAIS/HTTP Client connection management.md",
+    "2 Resources/The Twelve-factor app manifesto.md",
+    "2 Resources/NAIS/General.md",
+    "1 Attachments/Screenshot 2026-09-07 at 14.05.53.png",
+    "1 Attachments/Screenshot 2026-09-07 at 14.01.18.png",
+    "1 Attachments/Screenshot 2026-09-07 at 13.15.22.png",
+    "1 Attachments/Screenshot 2026-09-07 at 13.14.52.png",
+    "1 Attachments/Screenshot 2026-09-07 at 13.13.55.png",
+    "2 Resources",
     "Attachments",
-    "NAIS",
+    "2 Resources/NAIS",
     "2026-09-07.md",
     "Untitled.base",
     "0 New notes",
     "Untitled.canvas",
     "Notetaking/PARA method.md",
-    "Github actions/CI CD for Kubernetes.md",
+    "2 Resources/Github actions/CI CD for Kubernetes.md",
     "Notetaking",
-    "Github actions/Workflow features.md",
-    "Github actions/Adding documentation check to the pipeline.md",
+    "2 Resources/Github actions/Workflow features.md",
+    "2 Resources/Github actions/Adding documentation check to the pipeline.md",
     "1 Attachments/Screenshot 2026-09-07 at 10.24.23.png",
-    "Github actions/Github Advanced Security.md",
+    "2 Resources/Github actions/Github Advanced Security.md",
     "1 Attachments/Screenshot 2026-09-07 at 10.12.18.png",
     "1 Attachments/Screenshot 2026-09-07 at 10.10.58.png",
     "Screenshot 2026-09-07 at 10.10.35.png",
     "1 Attachments/Screenshot 2026-09-07 at 10.09.42.png",
-    "Github actions/OIDC.md",
-    "Screenshot 2026-09-07 at 09.58.02.png",
-    "Screenshot 2026-09-07 at 10.00.41 (2).png",
-    "Github actions/Build and push docker image.md",
-    "Github actions/Creating workflow for .NET apps.md",
-    "Github actions/Bicep template deploy.md",
-    "Github actions/Basics.md",
+    "2 Resources/Github actions/OIDC.md",
+    "2 Resources/Github actions/Build and push docker image.md",
+    "2 Resources/Github actions/Creating workflow for .NET apps.md",
+    "2 Resources/Github actions/Bicep template deploy.md",
+    "2 Resources/Github actions/Basics.md",
     "1 Attachments",
-    "Github actions",
-    "Kubernetes/Monitoring.md",
-    "Kubernetes/YAML.md",
-    "Kubernetes/Helm.md",
-    "Kubernetes/K9S.md",
-    "Kubernetes/Storage.md",
-    "Kubernetes/Terminal shortcuts.md",
-    "Kubernetes/Rancher desktop, kubectl aliases, setup.md",
-    "Kubernetes/Pods.md",
-    "Kubernetes/What is Kubernetes and why do we need it?.md",
-    "Kubernetes/Networking fundamentals.md",
-    "Kubernetes/Deployments.md",
-    "Kubernetes/Deployments - Namespaces.md",
-    "2026-09-02.md",
+    "2 Resources/Github actions",
+    "2 Resources/Kubernetes/Monitoring.md",
+    "2 Resources/Kubernetes/YAML.md",
+    "2 Resources/Kubernetes/Helm.md",
+    "2 Resources/Kubernetes/K9S.md",
+    "2 Resources/Kubernetes/Storage.md",
+    "2 Resources/Kubernetes/Terminal shortcuts.md",
+    "2 Resources/Kubernetes/Rancher desktop, kubectl aliases, setup.md",
+    "2 Resources/Kubernetes/Pods.md",
+    "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
+    "2 Resources/Kubernetes/Networking fundamentals.md",
+    "2 Resources/Kubernetes/Deployments.md",
     "Kubernetes/Untitled.base",
     "Kubernetes/Untitled.canvas",
-    "Kubernetes"
+    "2 Resources/Kubernetes"
   ]
 }

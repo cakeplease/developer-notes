@@ -9,7 +9,7 @@ The Twelve-Factor App is a methodology for building modern cloud-native and SaaS
 - Suitable for continuous delivery and cloud platforms  
 - Consistent between development and production environments  
 
-Source: https://12factor.net/ 【1-f456d0】  
+Source: https://12factor.net/ 
 
 ---  
 # The 12 Factors  
@@ -322,12 +322,7 @@ Pod 4
 replicas: 4  
 
 ```  
-
-  
-
 ---  
-
-  
 
 ## IX. Disposability  
 
@@ -338,8 +333,6 @@ Applications should:
 - Start quickly  
 - Shut down cleanly  
 - Handle restarts safely  
-
-  
 
 ### Why?  
 
@@ -368,11 +361,7 @@ Exit
 
 ```  
 
-  
-
 ---  
-
-  
 
 ## X. Dev/Prod Parity  
 **Keep development, staging and production as similar as possible.**  
@@ -386,18 +375,15 @@ Reduce:
 
 ```  
 
-  
 
 ### Examples  
 Use:  
-
 - Same database engine  
 - Same runtime version  
 - Same deployment process  
 
 
 Avoid:  
-
 - SQLite locally + PostgreSQL in production  
 - Different operating systems  
 - Different application versions  
@@ -405,16 +391,13 @@ Avoid:
 
 ---  
 
-
 ## XI. Logs  
 
 **Treat logs as event streams.**  
 ### Key Ideas  
 
 Applications should:  
-
 - Write logs to stdout/stderr  
-
 - Let the platform collect them  
 
 ### Example  
@@ -448,11 +431,7 @@ Examples:
 
 ### Examples  
 
-  
-
 Database migration:  
-
-  
 
 ```bash  
 
@@ -460,12 +439,7 @@ dotnet ef database update
 
 ```  
 
-  
-
 Data import:  
-
-  
-
 ```bash  
 
 python import.py  
@@ -476,8 +450,6 @@ python import.py
 
 NAIS Job:  
 
-  
-
 ```bash  
 
 kubectl create job  
@@ -486,28 +458,18 @@ kubectl create job
 
 ### Key Idea  
 
-  
-
 Administrative tasks should:  
 
 - Use the same codebase  
-
 - Use the same configuration  
-
 - Run separately from the main application  
-
-  
-
 ---  
-
-  
 
 # Relation to Kubernetes  
 
 The 12-Factor principles map almost perfectly to Kubernetes.  
 
   
-
 | 12-Factor | Kubernetes |  
 
 |------------|------------|  
@@ -528,23 +490,12 @@ The 12-Factor principles map almost perfectly to Kubernetes.
 
 | Dev/Prod Parity | Same manifests across environments |  
 
-  
-
 ---  
 
-  
-
 # Relation to NAIS  
-
-  
-
 Many NAIS best practices are based on 12-Factor ideas.  
 
-  
-
 ### NAIS Examples  
-
-  
 
 #### Config  
 
@@ -559,7 +510,6 @@ value: https://api.example.com
 ```  
 
   
-
 #### Secrets  
 
 ```yaml  
@@ -569,8 +519,6 @@ envFrom:
 - secret: my-secret  
 
 ```  
-
-  
 
 #### Scaling  
 
@@ -584,8 +532,6 @@ max: 6
 
 ```  
 
-  
-
 #### Logging  
 
 ```text  
@@ -594,30 +540,18 @@ Application -> stdout -> NAIS/Grafana
 
 ```  
 
-  
 
 ---  
 
-  
-
 # Quick Summary  
-
-  
 
 The five most important principles:  
 
-  
-
 1. Store configuration in environment variables.  
-
 2. Keep applications stateless.  
-
 3. Explicitly declare dependencies.  
-
 4. Scale horizontally through multiple instances.  
-
 5. Keep development and production environments as similar as possible.  
-
   
 
 If an application follows these principles, it will generally be easier to deploy, operate, maintain, and scale in Kubernetes and NAIS environments.
