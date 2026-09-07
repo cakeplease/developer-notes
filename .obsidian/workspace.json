@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian notes/PARA.md",
+                "file": "Notetaking/PARA method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PARA"
+              "title": "PARA method"
             }
           }
         ]
@@ -191,8 +191,8 @@
   "active": "397a6da1ab852d84",
   "lastOpenFiles": [
     "Github actions/CI CD for Kubernetes.md",
-    "Obsidian notes/PARA.md",
-    "Obsidian notes",
+    "Notetaking/PARA method.md",
+    "Notetaking",
     "Github actions/Workflow features.md",
     "Github actions/Adding documentation check to the pipeline.md",
     "Attachments/Screenshot 2026-09-07 at 10.24.23.png",
