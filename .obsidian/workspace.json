@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/NAIS/General.md",
+                "file": "2 Resources/NAIS/Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "Auth"
+            }
+          },
+          {
+            "id": "5bee74f5aa56bf99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Resources/Kubernetes/Networking fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking fundamentals"
             }
           }
         ]
@@ -42,7 +56,7 @@
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ImageRepository",
+                "query": "tag:#Ingress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,9 +204,14 @@
   },
   "active": "c91beab79c476c93",
   "lastOpenFiles": [
-    "2 Resources/NAIS/HTTP Client connection management.md",
-    "2 Resources/The Twelve-factor app manifesto.md",
+    "2 Resources/NAIS/Job.md",
+    "2 Resources/NAIS/Auth.md",
+    "2 Resources/NAIS/Application.md",
     "2 Resources/NAIS/General.md",
+    "2 Resources/NAIS/HTTP Client connection management.md",
+    "2 Resources/Github actions/Basics.md",
+    "2 Resources/Kubernetes/Networking fundamentals.md",
+    "2 Resources/The Twelve-factor app manifesto.md",
     "1 Attachments/Screenshot 2026-09-07 at 14.05.53.png",
     "1 Attachments/Screenshot 2026-09-07 at 14.01.18.png",
     "1 Attachments/Screenshot 2026-09-07 at 13.15.22.png",
@@ -220,7 +239,6 @@
     "2 Resources/Github actions/Build and push docker image.md",
     "2 Resources/Github actions/Creating workflow for .NET apps.md",
     "2 Resources/Github actions/Bicep template deploy.md",
-    "2 Resources/Github actions/Basics.md",
     "1 Attachments",
     "2 Resources/Github actions",
     "2 Resources/Kubernetes/Monitoring.md",
@@ -231,9 +249,6 @@
     "2 Resources/Kubernetes/Terminal shortcuts.md",
     "2 Resources/Kubernetes/Rancher desktop, kubectl aliases, setup.md",
     "2 Resources/Kubernetes/Pods.md",
-    "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
-    "2 Resources/Kubernetes/Networking fundamentals.md",
-    "2 Resources/Kubernetes/Deployments.md",
     "Kubernetes/Untitled.base",
     "Kubernetes/Untitled.canvas",
     "2 Resources/Kubernetes"

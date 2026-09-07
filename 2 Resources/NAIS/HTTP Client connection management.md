@@ -1,4 +1,3 @@
-
 ## Why is this important?  
 
 HTTP clients typically reuse TCP connections from a connection pool to avoid performing a new TCP/TLS handshake for every request. This improves performance and reduces latency. However, in a Kubernetes-based platform like NAIS, connection reuse can cause subtle reliability issues if the client is not configured correctly.

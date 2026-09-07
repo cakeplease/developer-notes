@@ -20,3 +20,12 @@ Here are some **good practices**: https://docs.nais.io/workloads/explanations/go
 
 # #ImageRepository
 Every team gets own image repository where they push images they run on Nais. When using [nais/docker-build-push](https://github.com/nais/docker-build-push) action in your workflow, this repo is used automatically. **Nais restricts use of images from other image registries.** To use a third-party Docker image, you must upload it to your team’s repository.
+
+
+# #BuildAndDeploy
+
+📚 [nais/docker-build-push](https://github.com/nais/docker-build-push)
+
+📚 [nais/deploy](https://github.com/nais/deploy/tree/master/actions/deploy)
+
+See [[Basics]] for Github actions.
