@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c44d8287e054350b",
+        "id": "e21a1dd8e70bc5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e32ba9748f703f22",
+            "id": "67e82db55c354481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/NAIS/Auth.md",
+                "file": "2 Resources/NAIS/Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth"
+              "title": "Observability"
             }
           }
         ]
@@ -188,12 +188,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "6275692a3c9bb9d7",
+  "active": "67e82db55c354481",
   "lastOpenFiles": [
-    "0 New notes/Public Key Cryptography.md",
-    "2 Resources/NAIS/Auth.md",
-    "2 Resources/Github actions/OIDC.md",
+    "2 Resources/Kubernetes/Helm.md",
+    "2 Resources/Grafana/General.md",
+    "2 Resources/Kubernetes/Pods.md",
+    "2 Resources/Kubernetes/K9S.md",
+    "2 Resources/Kubernetes/Storage.md",
     "2 Resources/Kubernetes/Networking fundamentals.md",
+    "2 Resources/Kubernetes/Rancher desktop, kubectl aliases, setup.md",
+    "2 Resources/Kubernetes/Terminal shortcuts.md",
+    "2 Resources/Kubernetes/Monitoring.md",
+    "2 Resources/NAIS/Observability.md",
+    "2 Resources/Grafana",
+    "1 Attachments/Pasted image 20260908100736.png",
+    "2 Resources/NAIS/Auth.md",
+    "0 New notes/Public Key Cryptography.md",
+    "2 Resources/Github actions/OIDC.md",
     "1 Attachments/Screenshot 2026-09-07 at 15.43.48.png",
     "2 Resources/NAIS/Job.md",
     "2 Resources/NAIS/Application.md",
@@ -222,21 +233,10 @@
     "2 Resources/Github actions/Github Advanced Security.md",
     "1 Attachments/Screenshot 2026-09-07 at 10.12.18.png",
     "1 Attachments/Screenshot 2026-09-07 at 10.10.58.png",
-    "Screenshot 2026-09-07 at 10.10.35.png",
     "2 Resources/Github actions/Build and push docker image.md",
-    "2 Resources/Github actions/Creating workflow for .NET apps.md",
-    "2 Resources/Github actions/Bicep template deploy.md",
     "1 Attachments",
     "2 Resources/Github actions",
-    "2 Resources/Kubernetes/Monitoring.md",
-    "2 Resources/Kubernetes/YAML.md",
-    "2 Resources/Kubernetes/Helm.md",
-    "2 Resources/Kubernetes/K9S.md",
-    "2 Resources/Kubernetes/Storage.md",
-    "2 Resources/Kubernetes/Terminal shortcuts.md",
-    "2 Resources/Kubernetes/Rancher desktop, kubectl aliases, setup.md",
     "Kubernetes/Untitled.base",
-    "Kubernetes/Untitled.canvas",
-    "2 Resources/Kubernetes"
+    "Kubernetes/Untitled.canvas"
   ]
 }
