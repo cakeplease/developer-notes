@@ -6,6 +6,7 @@ Place running lot of VMs, where often one VM contained one application. Then Doc
 
 It was kind of scalable, but there were lots of VMs with lots of containers, in order to upgrade you needed to manually fix one VM at time. So kubernetes is a system to fix this issue. 
 
+#node #workernode
 Kubernetes is the operating system of the cloud. It is a bunch of VMs who are able to communicate properly with each other and to divide their workload. Instead of the proxy from the example, if you look away from network, it is still VMs, running some OS, but difference is the control plane and all of the VMs from above, are called **worker nodes**. So you can ask kubernetes, to create 3 replicas of some image (defining this in yaml file), and control plane takes the request, considering the nodes, and thinks where do i have most capacity? It will think, this node is full... maybe choose another one. In an kind of intelligent way.  
 ![[Screenshot 2026-09-01 at 14.05.35.png|700]]
 

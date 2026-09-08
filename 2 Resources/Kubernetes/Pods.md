@@ -2,10 +2,18 @@ Namespace is a way to separate things.
 k run nginx-test --image=nginx
 k run httpd-test --image=httpd
 
-What is a pod?
-The smallest element on k cluster. Smallest unit on a node.
+## What is a pod?
+The smallest element on Kubernetes cluster. Smallest unit on a node.
 
-We have a cluster with control plane, it runs on laptop in rancher desktop. ![[Screenshot 2026-09-02 at 09.16.02.png]]
+#cluster group of machines that work together to run and manage containerized applications.
+
+- #cluster = all machines together
+- #nodes = individual machines (VMs or physical servers)
+- #pods = running containers
+
+We have a cluster with control plane, it runs on laptop in rancher desktop. 
+
+![[Screenshot 2026-09-02 at 09.16.02.png]]
 
 K port 6443, this is port of the API server, k cluster on control plane contains: ETCD (brain), scheduler, API server amongs other things...
 API server (6443)
@@ -27,8 +35,8 @@ Most common pod is a single container pod.
 Describe:
 k describe pod `<name>`
 
-Pod: 
--single container
+#pod: 
+- single container
 - multi container
 - Init container (needs to run successfully before next pod is going to run), that is how you can do some conditional deployments. 
 - networking
