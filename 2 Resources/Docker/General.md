@@ -23,5 +23,6 @@ Tool to build, run and manage containers. Main purpose is to package application
 
 
 
-## Good to know
-**Container lives as long as the process within it does.** 
+## Good to know!
+- Container lives as long as the process within it does
+- Build args get baked into the images' metadata

@@ -79,10 +79,10 @@ Quite advanced topic. First time configuring ingress is difficult. Ingress resou
 `k create ingress`
 
 These resources are made possible by installing the ingress controller, most common ones are:
-- nginx - high-performance HTTP web server, reverse proxy, content cache, and load balancer
-- traefik
-- cilium
-- cloud agic
+- #nginx - high-performance HTTP web server, reverse proxy, content cache, and load balancer
+- #traefik
+- #cilium
+- #cloudAagic
 
 Example of ingress controller:
 `kube-system   traefik          LoadBalancer   10.43.248.164   192.168.64.2   80:30841/TCP,443:31012/TCP`

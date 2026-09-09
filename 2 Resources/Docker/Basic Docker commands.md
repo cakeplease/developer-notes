@@ -18,3 +18,15 @@ docker pull `<imageName>`
 
 Execute a command within a docker container
 docker exec `<container>`
+
+Clear the system
+docker system prune
+
+See history
+docker history `<containerName>`
+
+Docker caches steps under building.
+
+
+
+
