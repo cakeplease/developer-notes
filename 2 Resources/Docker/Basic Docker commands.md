@@ -7,8 +7,11 @@ docker os -a
 Stop container
 docker stop `<containerName>`
 
-Remove a stopped/exited container permanently/image
+Remove a stopped/exited container permanently
 docker rm `<containerName/containerImage>`
+
+Remove docker image
+docker rmi `<imageName>`
 
 List available images
 docker images

@@ -1,5 +1,3 @@
 
 
-Test
-{{time}}
-{{date}}
+Created time: {{time}} {{date}}
