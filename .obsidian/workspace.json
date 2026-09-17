@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2de5bd1a4a274dd2",
+        "id": "2cb554624e9366a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c42e0bec2fa36cbb",
+            "id": "651449d5267e4703",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Resources/Google Cloud/Useful commands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Useful commands"
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +184,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "6275692a3c9bb9d7",
+  "active": "651449d5267e4703",
   "lastOpenFiles": [
+    "2 Resources/Claude Code/Claude in cloud.md",
+    "2 Resources/Claude Code/Ralph loop.md",
+    "2 Resources/Claude Code/Hooks.md",
+    "2 Resources/Claude Code/Agent skills.md",
+    "2 Resources/Claude Code/MCP.md",
+    "2 Resources/Claude Code/How to start.md",
+    "2 Resources/NAIS/Lessons learned when building the NAIS Platform with Hans Kristian Flaatten - Podcast.md",
+    "2 Resources/Google Cloud/Useful commands.md",
+    "2 Resources/Claude Code/Commands and keyboard shortcuts.md",
+    "2 Resources/ThreeJS/Getting started.md",
+    "2 Resources/Claude Code",
+    "2 Resources/ThreeJS",
     "2 Resources/Docker/Basic Docker commands.md",
     "2 Resources/Docker/General.md",
     "0 New notes/Setup.md",
-    "2 Resources/Google Cloud/Useful commands.md",
     "2 Resources/Google Cloud/Managing VMs with Compute Engine.md",
     "2 Resources/Google Cloud/Regions and zones.md",
     "2 Resources/Kubernetes/Deployments.md",
@@ -209,22 +216,13 @@
     "0 New notes/Untitled 4.md",
     "0 New notes/Untitled 3.md",
     "0 New notes/10-09-2026.md",
-    "0 New notes/Untitled 2.md",
-    "0 New notes/Untitled 1.md",
     "0 New notes/Untitled 1.base",
     "0 New notes/Untitled.base",
     "2 Resources/Google Cloud",
-    "2 Resources/NAIS/Lessons learned when building the NAIS Platform with Hans Kristian Flaatten - Podcast.md",
-    "2 Resources/NAIS/General.md",
-    "2 Resources/The Twelve-factor app manifesto.md",
-    "0 New notes/UntitledTEst.md",
-    "0 New notes/Template 1.md",
     "Untitled.canvas",
     "3 Templates",
-    "Notetaking/PARA method.md",
     "1 Attachments/Screenshot 2026-09-08 at 12.46.38.png",
     "1 Attachments/Screenshot 2026-09-08 at 12.45.59.png",
-    "2 Resources/NAIS/Observability.md",
     "2 Resources/Docker",
     "2 Resources/Grafana",
     "1 Attachments/Pasted image 20260908100736.png",
@@ -235,8 +233,6 @@
     "1 Attachments/Screenshot 2026-09-07 at 13.14.52.png",
     "1 Attachments/Screenshot 2026-09-07 at 13.13.55.png",
     "2 Resources",
-    "Attachments",
-    "2 Resources/NAIS",
     "Kubernetes/Untitled.canvas"
   ]
 }
