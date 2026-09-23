@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb554624e9366a3",
+        "id": "e829dcc957a0f81d",
         "type": "tabs",
         "children": [
           {
-            "id": "651449d5267e4703",
+            "id": "d6604d3f7db7b19c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "1 Attachments/Screenshot 2026-09-01 at 13.59.19.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-09-01 at 13.59.19"
             }
           }
         ]
@@ -184,18 +186,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "651449d5267e4703",
+  "active": "6275692a3c9bb9d7",
   "lastOpenFiles": [
+    "1 Attachments/Screenshot 2026-09-18 at 12.44.43.png",
+    "0 New notes/GIthub copilot.md",
+    "0 New notes/CV.md",
+    "2 Resources/Claude Code/Agent skills.md",
+    "2 Resources/Kubernetes/Terminal shortcuts.md",
+    "2 Resources/Kubernetes/Deployments - Namespaces.md",
+    "2 Resources/Kubernetes/Storage.md",
+    "2 Resources/Kubernetes/K9S.md",
+    "2 Resources/Kubernetes/Helm.md",
+    "2 Resources/Kubernetes/Monitoring.md",
+    "2 Resources/Claude Code/How to start.md",
+    "2 Resources/Claude Code/Commands and keyboard shortcuts.md",
+    "2 Resources/Github Copilot",
+    "2 Resources/Claude Code/MCP.md",
+    "2 Resources/ThreeJS/Getting started.md",
+    "2 Resources/Kubernetes/Pods.md",
+    "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
     "2 Resources/Claude Code/Claude in cloud.md",
     "2 Resources/Claude Code/Ralph loop.md",
     "2 Resources/Claude Code/Hooks.md",
-    "2 Resources/Claude Code/Agent skills.md",
-    "2 Resources/Claude Code/MCP.md",
-    "2 Resources/Claude Code/How to start.md",
     "2 Resources/NAIS/Lessons learned when building the NAIS Platform with Hans Kristian Flaatten - Podcast.md",
     "2 Resources/Google Cloud/Useful commands.md",
-    "2 Resources/Claude Code/Commands and keyboard shortcuts.md",
-    "2 Resources/ThreeJS/Getting started.md",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
     "2 Resources/Docker/Basic Docker commands.md",
@@ -203,19 +217,8 @@
     "0 New notes/Setup.md",
     "2 Resources/Google Cloud/Managing VMs with Compute Engine.md",
     "2 Resources/Google Cloud/Regions and zones.md",
-    "2 Resources/Kubernetes/Deployments.md",
-    "2 Resources/Kubernetes/Deployments - Namespaces.md",
-    "2 Resources/Kubernetes/Networking fundamentals.md",
-    "2 Resources/Github actions/OIDC.md",
-    "2 Resources/Kubernetes/Pods.md",
-    "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
-    "2 Resources/React/Creating the project.md",
     "2 Resources/React",
     "1 Attachments/Screenshot 2026-09-10 at 14.43.26.png",
-    "3 Templates/Note with date.md",
-    "0 New notes/Untitled 4.md",
-    "0 New notes/Untitled 3.md",
-    "0 New notes/10-09-2026.md",
     "0 New notes/Untitled 1.base",
     "0 New notes/Untitled.base",
     "2 Resources/Google Cloud",
@@ -231,8 +234,6 @@
     "1 Attachments/Screenshot 2026-09-07 at 14.01.18.png",
     "1 Attachments/Screenshot 2026-09-07 at 13.15.22.png",
     "1 Attachments/Screenshot 2026-09-07 at 13.14.52.png",
-    "1 Attachments/Screenshot 2026-09-07 at 13.13.55.png",
-    "2 Resources",
     "Kubernetes/Untitled.canvas"
   ]
 }
