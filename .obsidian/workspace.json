@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e829dcc957a0f81d",
+        "id": "26bfdce594ad6ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "d6604d3f7db7b19c",
+            "id": "763a235b88a7cb3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1 Attachments/Screenshot 2026-09-01 at 13.59.19.png"
+                "file": "2 Resources/Security/Security journey.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-09-01 at 13.59.19"
+              "icon": "lucide-file",
+              "title": "Security journey"
             }
           }
         ]
@@ -186,8 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "6275692a3c9bb9d7",
+  "active": "763a235b88a7cb3a",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
+    "2 Resources/Security/Security journey.md",
+    "2 Resources/Security",
+    "2 Resources/Untitled.canvas",
+    "1 Attachments/Screenshot 2026-09-01 at 13.59.19.png",
+    "2 Resources/Google Cloud/Professional Cloud Developer",
     "1 Attachments/Screenshot 2026-09-18 at 12.44.43.png",
     "0 New notes/GIthub copilot.md",
     "0 New notes/CV.md",
@@ -216,7 +224,6 @@
     "2 Resources/Docker/General.md",
     "0 New notes/Setup.md",
     "2 Resources/Google Cloud/Managing VMs with Compute Engine.md",
-    "2 Resources/Google Cloud/Regions and zones.md",
     "2 Resources/React",
     "1 Attachments/Screenshot 2026-09-10 at 14.43.26.png",
     "0 New notes/Untitled 1.base",
@@ -226,14 +233,11 @@
     "3 Templates",
     "1 Attachments/Screenshot 2026-09-08 at 12.46.38.png",
     "1 Attachments/Screenshot 2026-09-08 at 12.45.59.png",
-    "2 Resources/Docker",
-    "2 Resources/Grafana",
     "1 Attachments/Pasted image 20260908100736.png",
     "1 Attachments/Screenshot 2026-09-07 at 15.43.48.png",
     "1 Attachments/Screenshot 2026-09-07 at 14.05.53.png",
     "1 Attachments/Screenshot 2026-09-07 at 14.01.18.png",
     "1 Attachments/Screenshot 2026-09-07 at 13.15.22.png",
-    "1 Attachments/Screenshot 2026-09-07 at 13.14.52.png",
     "Kubernetes/Untitled.canvas"
   ]
 }
