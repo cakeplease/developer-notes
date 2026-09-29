@@ -53,3 +53,26 @@ service apache2 start
 Make sure the correct custom image is chosen in the OS and Storage-> Operating system and storage -> Image
 
 **Create**
+
+
+## Reusable VM config with #instancetemplates
+
+Configure machine type, image, labels, startup scripts.
+
+Create individual VMs or managed instance groups from same template.
+
+They are **immutable**: cannot modify existing templates once created! But you can copy it to create new version. Can specify image family.
+
+Demo:
+
+- Go to Instance templates
+- Create instance template
+- Boot disk -> custom images if you want to use custom image
+- Firewall -> allow http traffic
+- Advanced options -> Management -> Automation (start up script)
+	- #!/bin/bash
+	- echo "Hello world from $(hostname) $(hostname -I)" > /var/www/html/index.html
+	- service apache2 start
+- It is free to create instance templates
+
+

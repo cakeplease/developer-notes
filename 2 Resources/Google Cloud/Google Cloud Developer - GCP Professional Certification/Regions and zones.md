@@ -1,6 +1,5 @@
 Created time: 13:41 10-09-2026
 
-
 A region is a specific geographical location to host your resources.
 
 Why choosing the right region is important

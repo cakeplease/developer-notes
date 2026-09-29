@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcba05e9830c6bb3",
+        "id": "070f33b354ca1cab",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2a48bf93c03143",
+            "id": "c703853532d006ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,13 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b2a48bf93c03143",
+  "active": "c703853532d006ac",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Choosing VM hardware.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Key terminology.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Regions and zones.md",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Useful commands.md",
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/IP addresses.md",
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Regions and zones.md",
-    "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
+    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/IP addresses.md",
+    "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification",
     "2 Resources/The Twelve-factor app manifesto.md",
     "2 Resources/Security/Security journey.md",
@@ -221,14 +224,12 @@
     "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
     "2 Resources/Claude Code/Claude in cloud.md",
     "2 Resources/Claude Code/Ralph loop.md",
-    "2 Resources/Claude Code/Hooks.md",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
     "2 Resources/React",
     "1 Attachments/Screenshot 2026-09-10 at 14.43.26.png",
     "0 New notes/Untitled 1.base",
     "0 New notes/Untitled.base",
-    "2 Resources/Google Cloud",
     "Untitled.canvas",
     "1 Attachments/Screenshot 2026-09-08 at 12.46.38.png",
     "1 Attachments/Screenshot 2026-09-08 at 12.45.59.png",

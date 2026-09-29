@@ -1,0 +1,43 @@
+Created time: 12:17 29-09-2026
+
+Goal is to achieve the best performance-to-cost ratio for your application.
+
+There are different applications with different needs:
+**Web applications:** balance of CPU and memory
+**Analytics**: lots of memory to perform calculations
+**Gaming**: high CPU and/or GPU for real-time processing
+**AI/ML or graphics**: specific hardware - GPUs/TPUs
+**Big data or DW (Data warehouse)** - large and fast storage - large data sets
+
+## Machine family
+Google Cloud offers multiple machine families for different workloads.
+- General purpose (E, N series) - balance of CPU and memory (web apps, dev env, small databases)
+- Memory optimised (M, X series) - high-memory workloads such as in-memory databases and analytics
+- Compute optimised (C, H) - CPU-intensive workloads like batch processing and simulations
+- Storage optimised (Z series) - high disk I/O for big data and data warehouse workloads
+- Accelerator optimised (A, G series) - GPU and TPU (tensor processing unit for AI) workloads for AI, ML and graphics
+
+## Machine type
+Each machine family includes multiple machine types.
+
+Naming example: e2-standard-4
+- **e2** - machine family
+- **4** - number of vCPUs
+- **standard** - config type:
+	- standard: 4GB
+	 - highmem: 8GB
+	 - highcpu: 1GB
+
+
+## Image
+Image defines the OS and software your VM will run.
+Ex: debian, ubuntu, windows server, sql server
+
+You can also create a custom image:
+- full controll
+- preferred OS
+- pre-installed apps
+- config
+- security settings
+
+
