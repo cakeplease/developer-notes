@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Managing VMs with Compute Engine.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Managing VMs with Compute Engine"
+              "title": "Professional Cloud Developer"
             }
           }
         ]
@@ -190,11 +190,13 @@
   },
   "active": "c703853532d006ac",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Choosing VM hardware.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Key terminology.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Regions and zones.md",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Useful commands.md",
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Managing VMs with Compute Engine.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/IP addresses.md",
     "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
@@ -222,8 +224,6 @@
     "2 Resources/Claude Code/MCP.md",
     "2 Resources/Kubernetes/Pods.md",
     "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
-    "2 Resources/Claude Code/Claude in cloud.md",
-    "2 Resources/Claude Code/Ralph loop.md",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
     "2 Resources/React",
