@@ -11,4 +11,7 @@ gcloud artifacts repositories describe benken-frontend \
 *Describe a role*
 gcloud iam roles describe `<roleName>` for example: roles/artifactregistry.writer
 
-
+Install apache server:
+sudo su
+apt update
+apt - y install apache2

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Professional Cloud Developer"
+              "title": "4. Managing VMs with Compute Engine"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "vm instance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,13 +190,14 @@
   },
   "active": "c703853532d006ac",
   "lastOpenFiles": [
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Best practices.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/1. Key terminology.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Choosing VM hardware.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Key terminology.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Regions and zones.md",
-    "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/Useful commands.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Useful commands.md",
+    "2 Resources/Docker/General.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification",
     "2 Resources/Google Cloud/GCP Associate Cloud Engineer - Google Cloud Certification/IP addresses.md",
     "2 Resources/Google Cloud/Professional Cloud Developer/Untitled.md",
@@ -223,7 +224,6 @@
     "2 Resources/Github Copilot",
     "2 Resources/Claude Code/MCP.md",
     "2 Resources/Kubernetes/Pods.md",
-    "2 Resources/Kubernetes/What is Kubernetes and why do we need it?.md",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
     "2 Resources/React",

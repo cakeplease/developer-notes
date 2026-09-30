@@ -1,3 +1,5 @@
+Created time: 14:17 29-09-2026
+
 ### Certification exam guide 
 
 A Professional Cloud Developer builds and configures scalable, secure applications by using Google-recommended tools and best practices. They are proficient in the full development lifecycle, from architecting cloud-native applications to integrating advanced machine learning capabilities. They are also responsible for utilising generative AI APIs to create intelligent user experiences. Additionally, they leverage AI-powered development tools—such as AI coding assistants, context engineering, and automated debugging agents—to accelerate delivery and improve code quality. 
