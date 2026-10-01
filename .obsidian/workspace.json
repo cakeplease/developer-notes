@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/5. Instance groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Managing VMs with Compute Engine"
+              "title": "5. Instance groups"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vm instance",
+                "query": "Preemptible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,10 +190,11 @@
   },
   "active": "c703853532d006ac",
   "lastOpenFiles": [
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/4. Managing VMs with Compute Engine.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Best practices.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/5. Instance groups.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/3. Choosing VM hardware.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/2. Regions and zones.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Best practices.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/1. Key terminology.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Useful commands.md",
@@ -223,7 +224,6 @@
     "2 Resources/Claude Code/Commands and keyboard shortcuts.md",
     "2 Resources/Github Copilot",
     "2 Resources/Claude Code/MCP.md",
-    "2 Resources/Kubernetes/Pods.md",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
     "2 Resources/React",
