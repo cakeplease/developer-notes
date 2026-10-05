@@ -26,3 +26,25 @@ Tool to build, run and manage containers. Main purpose is to package application
 ## Good to know!
 - Container lives as long as the process within it does
 - Build args get baked into the images' metadata
+
+
+### Container images are build as layers
+
+Base image layer - OS and runtime
+Instruction layer - instructions
+App layer - source code
+Dependency layer - libraries cached as reusable layer
+
+Layer caching - unchanged layers from prev builds are reused
+
+**Best practice:** 
+- Layer caching, optimize dockerfile ex: copy dependencies first! Then source code last!
+- Keep it light
+- use .dockerignore
+- semantic versioning MIJOR.MINOR.PATCH
+	- MAJOR (1.x.x) breaking changes
+	- MINOR (x.2.x) new features (compatible)
+	- PATCH (x.x.5) bug fixes only
+	
+- Pin base image versions, avoid latest!
+
