@@ -1,3 +1,1 @@
-
-
 Created time: {{time}} {{date}}
