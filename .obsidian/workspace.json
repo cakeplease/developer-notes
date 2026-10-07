@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
+                "file": "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/10. Service mesh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Kubernetes and GKE"
+              "title": "10. Service mesh"
             }
           }
         ]
@@ -190,10 +190,11 @@
   },
   "active": "72f28649f0eb1b6f",
   "lastOpenFiles": [
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
+    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/10. Service mesh.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/All executed commands.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Useful commands.md",
     "file:/Users/katarzyna.szlejter/Downloads/downloads/commands-executed.md",
-    "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/9. Kubernetes and GKE.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/8. Google Cloud Run.md",
     "2 Resources/Google Cloud/Google Cloud Developer - GCP Professional Certification/Professional Cloud Developer.md",
     "2 Resources/Docker/General.md",
@@ -222,7 +223,6 @@
     "1 Attachments/Screenshot 2026-09-18 at 12.44.43.png",
     "0 New notes/GIthub copilot.md",
     "0 New notes/CV.md",
-    "2 Resources/Claude Code/Agent skills.md",
     "2 Resources/Github Copilot",
     "2 Resources/Claude Code",
     "2 Resources/ThreeJS",
